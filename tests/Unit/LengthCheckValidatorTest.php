@@ -1,6 +1,6 @@
 <?php
 
-namespace Povil\PeerProgramming\Tests\Unit;
+namespace Tests\Unit;
 
 use Povil\PeerProgramming\Service\Validators\LengthCheckValidator;
 use PHPUnit\Framework\TestCase;

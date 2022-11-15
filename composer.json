@@ -8,7 +8,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Povil\\PeerProgramming\\Tests\\": "tests/"
+            "Tests\\": "tests/"
         }
     },
     "authors": [
