@@ -3,6 +3,12 @@
     "autoload": {
         "psr-4": {
             "Povil\\PeerProgramming\\": "src/"
+
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Povil\\PeerProgramming\\Tests\\": "tests/"
         }
     },
     "authors": [
@@ -26,5 +32,8 @@
             "@phpstan",
             "@phpunit"
         ]
+    },
+    "require": {
+        "ext-ctype": "*"
     }
 }
